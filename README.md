@@ -1,6 +1,6 @@
 # 3D-Flip-Book-Teaser
 
-[View in Browser](https://codinginbarn.github.io/3D-Flip-Book-Teaser/)
+Preview a sample in the about area. Follow the link...
 
 ### About
 
