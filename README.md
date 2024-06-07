@@ -1,5 +1,7 @@
 # 3D-Flip-Book-Teaser
 
+Simle but effective way to intice visitors to jump on your mailing list and download your ebook report.
+
 Preview a sample in the about area. Follow the link...
 
 ### About
